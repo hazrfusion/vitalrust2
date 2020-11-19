@@ -1,0 +1,4 @@
+Config file created
+Error: An invalid token was provided.
+You have maybe added client secret instead of BOT token.
+Please set BOT token
